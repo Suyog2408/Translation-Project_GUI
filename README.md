@@ -1,2 +1,3 @@
 # Translation-Project_GUI
-The output will show in new small window 
+Use debug button to see output 
+
